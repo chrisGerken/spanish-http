@@ -1,0 +1,331 @@
+[
+    {
+        "verb": "nadar",
+        "meaning": "to swim",
+        "kind": "ar",
+        "tiempos": {
+            "presente": {
+                "yo": "nodo",
+                "tú": "nodas",
+                "él": "noda",
+                "nosotros": "nodamos",
+                "vosotros": "nodáis",
+                "ellas": "nodan"
+            },
+            "indefinido": {
+                "yo": "nodé",
+                "tú": "nodaste",
+                "él": "nodó",
+                "nosotros": "nodamos",
+                "vosotros": "nodasteis",
+                "ellas": "nodaron"
+            },
+            "imperfecto": {
+                "yo": "nodaba",
+                "tú": "nodabas",
+                "él": "nodaba",
+                "nosotros": "nodábamos",
+                "vosotros": "nodabais",
+                "ellas": "nodaban"
+            },
+            "futuro immediato": {
+                "yo": "voy a nadar",
+                "tú": "vas a nadar",
+                "él": "va a nadar",
+                "nosotros": "vamos a nadar",
+                "vosotros": "vais a nadar",
+                "ellas": "van a nadar"
+            },
+            "futuro": {
+                "yo": "nadaré",
+                "tú": "nadarás",
+                "él": "nadará",
+                "nosotros": "nadaremos",
+                "vosotros": "nadaréis",
+                "ellas": "nadararán"
+            }
+        }
+    },
+    {
+        "verb": "dar",
+        "meaning": "to give",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "doy",
+                "tú": "das",
+                "él": "da",
+                "nosotros": "damos",
+                "vosotros": "dais",
+                "ellas": "dan"
+            },
+            "indefinido": {
+                "yo": "di",
+                "tú": "diste",
+                "él": "dio",
+                "nosotros": "dimos",
+                "vosotros": "disteis",
+                "ellas": "dieron"
+            },
+            "imperfecto": {
+                "yo": "daba",
+                "tú": "dabas",
+                "él": "daba",
+                "nosotros": "dábamos",
+                "vosotros": "dabeis",
+                "ellas": "dieron"
+            },
+            "futuro immediato": {
+                "yo": "voy a dar",
+                "tú": "vas a dar",
+                "él": "va a dar",
+                "nosotros": "vamos a dar",
+                "vosotros": "vais a dar",
+                "ellas": "van a dar"
+            },
+            "futuro": {
+                "yo": "daré",
+                "tú": "darás",
+                "él": "dará",
+                "nosotros": "daremos",
+                "vosotros": "daréis",
+                "ellas": "dararán"
+            }
+        }
+    },
+    {
+        "verb": "conseguir",
+        "meaning": "to get",
+        "kind": "ir",
+        "tiempos": {
+            "presente": {
+                "yo": "consigo",
+                "tú": "consigues",
+                "él": "consigue",
+                "nosotros": "conseguimos",
+                "vosotros": "conseguis",
+                "ellas": "consiguen"
+            },
+            "indefinido": {
+                "yo": "consegui",
+                "tú": "conseguiste",
+                "él": "consiguió",
+                "nosotros": "conseguimos",
+                "vosotros": "conseguisteis",
+                "ellas": "consiguieron"
+            },
+            "imperfecto": {
+                "yo": "conseguía",
+                "tú": "conseguías",
+                "él": "conseguía",
+                "nosotros": "conseguíamos",
+                "vosotros": "conseguíais",
+                "ellas": "conseguían"
+            },
+            "futuro immediato": {
+                "yo": "voy a conseguir",
+                "tú": "vas a conseguir",
+                "él": "va a conseguir",
+                "nosotros": "vamos a conseguir",
+                "vosotros": "vais a conseguir",
+                "ellas": "van a conseguir"
+            },
+            "futuro": {
+                "yo": "conseguiré",
+                "tú": "conseguirás",
+                "él": "conseguirá",
+                "nosotros": "conseguiremos",
+                "vosotros": "conseguiréis",
+                "ellas": "conseguirarán"
+            }
+        }
+    },
+    {
+        "verb": "tener",
+        "meaning": "to have",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "tengo",
+                "tú": "tienes",
+                "él": "tiene",
+                "nosotros": "tenemos",
+                "vosotros": "tenéis",
+                "ellas": "tienen"
+            },
+            "indefinido": {
+                "yo": "tuve",
+                "tú": "tuviste",
+                "él": "tuvo",
+                "nosotros": "tuvimos",
+                "vosotros": "tuvisteis",
+                "ellas": "tuvieron"
+            },
+            "imperfecto": {
+                "yo": "tenía",
+                "tú": "tenías",
+                "él": "tenía",
+                "nosotros": "teníamos",
+                "vosotros": "teníais",
+                "ellas": "tenían"
+            },
+            "futuro immediato": {
+                "yo": "voy a tener",
+                "tú": "vas a tener",
+                "él": "va a tener",
+                "nosotros": "vamos a tener",
+                "vosotros": "vais a tener",
+                "ellas": "van a tener"
+            },
+            "futuro": {
+                "yo": "teneré",
+                "tú": "tenerás",
+                "él": "tenerá",
+                "nosotros": "teneremos",
+                "vosotros": "teneréis",
+                "ellas": "tenerarán"
+            }
+        }
+    },
+    {
+        "verb": "traer",
+        "meaning": "to bring",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "traigo",
+                "tú": "traes",
+                "él": "trae",
+                "nosotros": "traemos",
+                "vosotros": "traéis",
+                "ellas": "traen"
+            },
+            "indefinido": {
+                "yo": "traje",
+                "tú": "trajiste",
+                "él": "trajo",
+                "nosotros": "trajimos",
+                "vosotros": "trajidteis",
+                "ellas": "trajeron"
+            },
+            "imperfecto": {
+                "yo": "traia",
+                "tú": "traias",
+                "él": "traaia",
+                "nosotros": "traiamos",
+                "vosotros": "traéis",
+                "ellas": "traen"
+            },
+            "futuro immediato": {
+                "yo": "voy a traer",
+                "tú": "vas a traer",
+                "él": "va a traer",
+                "nosotros": "vamos a traer",
+                "vosotros": "vais a traer",
+                "ellas": "van a traer"
+            },
+            "futuro": {
+                "yo": "traeré",
+                "tú": "traerás",
+                "él": "traerá",
+                "nosotros": "traeremos",
+                "vosotros": "traeréis",
+                "ellas": "traerarán"
+            }
+        }
+    },
+    {
+        "verb": "guadar",
+        "meaning": "to keep",
+        "kind": "ar",
+        "tiempos": {
+            "presente": {
+                "yo": "guardo",
+                "tú": "guardas",
+                "él": "guarda",
+                "nosotros": "guardamos",
+                "vosotros": "guardáis",
+                "ellas": "guardan"
+            },
+            "indefinido": {
+                "yo": "guardé",
+                "tú": "guardaste",
+                "él": "guardó",
+                "nosotros": "guardamos",
+                "vosotros": "guardasteis",
+                "ellas": "guardaron"
+            },
+            "imperfecto": {
+                "yo": "guardaba",
+                "tú": "guardabas",
+                "él": "guardaba",
+                "nosotros": "guardábamos",
+                "vosotros": "guardasteis",
+                "ellas": "guardaron"
+            },
+            "futuro immediato": {
+                "yo": "voy a guadar",
+                "tú": "vas a guadar",
+                "él": "va a guadar",
+                "nosotros": "vamos a guadar",
+                "vosotros": "vais a guadar",
+                "ellas": "van a guadar"
+            },
+            "futuro": {
+                "yo": "guadaré",
+                "tú": "guadarás",
+                "él": "guadará",
+                "nosotros": "guadaremos",
+                "vosotros": "guadaréis",
+                "ellas": "guadararán"
+            }
+        }
+    },
+    {
+        "verb": "poner",
+        "meaning": "to put",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "pongo",
+                "tú": "pones",
+                "él": "pone",
+                "nosotros": "ponemos",
+                "vosotros": "ponéis",
+                "ellas": "ponen"
+            },
+            "indefinido": {
+                "yo": "puse",
+                "tú": "pusiste",
+                "él": "puso",
+                "nosotros": "pusimos",
+                "vosotros": "pusistes",
+                "ellas": "pusieron"
+            },
+            "imperfecto": {
+                "yo": "ponia",
+                "tú": "ponias",
+                "él": "ponía",
+                "nosotros": "poniamos",
+                "vosotros": "ponísteis",
+                "ellas": "ponían"
+            },
+            "futuro immediato": {
+                "yo": "voy a poner",
+                "tú": "vas a poner",
+                "él": "va a poner",
+                "nosotros": "vamos a poner",
+                "vosotros": "vais a poner",
+                "ellas": "van a poner"
+            },
+            "futuro": {
+                "yo": "poneré",
+                "tú": "ponerás",
+                "él": "ponerá",
+                "nosotros": "poneremos",
+                "vosotros": "poneréis",
+                "ellas": "ponerarán"
+            }
+        }
+    }
+]

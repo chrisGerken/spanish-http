@@ -1,0 +1,60 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="/spanish/spanish.css">
+
+		<script>
+	        function wrong( button ) {
+				button.style.background = 'red';
+				location.replace("/spanish/question?id=abd&correct=false");
+			}
+	        function right( button ) {
+				button.style.background = 'green';
+				location.replace("/spanish/question?id=abd&correct=true");
+			}
+		</script>
+		
+</head>
+
+<body>
+
+
+    <div >
+        <h1>Filters</h1>
+    </div>
+
+    <div class="container">
+
+<form action="/spanish/filter" method="POST" >
+
+
+<input type="checkbox" id="scales1" name="scales4" checked />
+<label for="scales1">Scalesx</label>
+<br>
+<input type="checkbox" id="scales2" name="scales5" checked />
+<label for="scales2">Scalesx</label>
+<br>
+<input type="checkbox" id="scales3" name="scales6" checked />
+<label for="scales2">Scalesx</label>
+<br>
+<input type="submit">	
+</form>
+
+
+
+        <div class="section">
+
+            <h3>This is the new question<h3>
+                
+            <button id="q1button" onclick="wrong(this)">Yes</button><BR><BR>
+            <button id="q2button" onclick="right(this)">No</button><BR><BR>
+            <button id="q3button" onclick="wrong(this)">Maybe</button><BR><BR>
+
+        </div>
+
+    </div>		
+
+</body>
+</html>
+
+

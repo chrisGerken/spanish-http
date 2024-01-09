@@ -16,12 +16,11 @@ import org.eclipse.jetty.util.resource.PathResource;
 import org.eclipse.jetty.util.resource.Resource;
 import org.eclipse.jetty.util.resource.ResourceCollection;
 import org.gerken.spanish.internal.SpanishPath;
+import org.gerken.spanish.logic.Loader;
+import org.gerken.spanish.servlet.FilterServlet;
 import org.gerken.spanish.servlet.QuestionServlet;
-import org.gerken.spanish.servlet.QuestiontypeServlet;
 import org.gerken.spanish.servlet.StatsServlet;
 import org.gerken.spanish.servlet.StopServlet;
-
-import spanish.Loader;
 
 // End imports
 
@@ -95,7 +94,7 @@ public class SpanishHttp implements Runnable {
 		recoll.setResources(resource);
 		handler.setBaseResource(recoll);
 		
-		handler.addServlet(QuestiontypeServlet.class, "/questiontype/*");
+		handler.addServlet(FilterServlet.class, "/filter/*");
 		handler.addServlet(QuestionServlet.class, "/question/*");
 		handler.addServlet(StatsServlet.class, "/stats/*");
 		handler.addServlet(StopServlet.class, "/stop/*");
@@ -122,6 +121,8 @@ public class SpanishHttp implements Runnable {
 				System.out.println("SpanishHttp  <port>  <file-root> ");
 				return;
 			}
+			
+			Loader.load();
 			
 			SpanishHttp http = new SpanishHttp(Integer.parseInt(args[0]), args[1]); 
 
