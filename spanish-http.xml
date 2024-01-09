@@ -1,0 +1,18 @@
+<root>
+
+    <server  name="spanish"  basePackage="org.gerken.spanish"  contextPath="spanish"  mavenGroup="org.gerken">
+
+        <servlet  name="filter" />
+
+        <servlet  name="question" />
+
+        <servlet  name="stats" />
+
+        <servlet  name="conjugations" />
+
+        <servlet  name="stop" />
+
+    </server>
+
+
+</root>

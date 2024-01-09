@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URI;
+import java.net.URL;
 import java.nio.channels.ReadableByteChannel;
 
 import org.eclipse.jetty.util.resource.Resource;
@@ -14,7 +15,7 @@ public class SpanishPath extends Resource {
 	private String path;
 	private Boolean exists = null;
 	
-	private SpanishPath() {
+	public SpanishPath() {
 
 	}
 	

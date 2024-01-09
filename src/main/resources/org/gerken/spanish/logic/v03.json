@@ -1,0 +1,189 @@
+[
+    {
+        "verb": "comprar",
+        "meaning": "to buy",
+        "kind": "ar",
+        "tiempos": {
+            "presente": {
+                "yo": "compro",
+                "tú": "compras",
+                "él": "compra",
+                "nosotros": "compramos",
+                "vosotros": "compráis",
+                "ellas": "compran"
+            },
+            "indefinido": {
+                "yo": "compré",
+                "tú": "compraste",
+                "él": "compró",
+                "nosotros": "compramos",
+                "vosotros": "comprasteis",
+                "ellas": "compraron"
+            },
+            "imperfecto": {
+                "yo": "compraba",
+                "tú": "comprabas",
+                "él": "compraba",
+                "nosotros": "comprábamos",
+                "vosotros": "comprabais",
+                "ellas": "compraban"
+            },
+            "futuro immediato": {
+                "yo": "voy a comprar",
+                "tú": "vas a comprar",
+                "él": "va a comprar",
+                "nosotros": "vamos a comprar",
+                "vosotros": "vais a comprar",
+                "ellas": "van a comprar"
+            },
+            "futuro": {
+                "yo": "compraré",
+                "tú": "comprarás",
+                "él": "comprará",
+                "nosotros": "compraremos",
+                "vosotros": "compraréis",
+                "ellas": "comprarán"
+            }
+        }
+    },
+    {
+        "verb": "bajar",
+        "meaning": "to go down",
+        "kind": "ar",
+        "tiempos": {
+            "presente": {
+                "yo": "bajo",
+                "tú": "bajas",
+                "él": "baja",
+                "nosotros": "bajamos",
+                "vosotros": "bajáis",
+                "ellas": "bajan"
+            },
+            "indefinido": {
+                "yo": "bajé",
+                "tú": "bajaste",
+                "él": "bajó",
+                "nosotros": "bajamos",
+                "vosotros": "bajasteis",
+                "ellas": "bajaron"
+            },
+            "imperfecto": {
+                "yo": "bajaba",
+                "tú": "bajabas",
+                "él": "bajaba",
+                "nosotros": "bajábamos",
+                "vosotros": "bajabais",
+                "ellas": "bajaban"
+            },
+            "futuro immediato": {
+                "yo": "voy a bajar",
+                "tú": "vas a bajar",
+                "él": "va a bajar",
+                "nosotros": "vamos a bajar",
+                "vosotros": "vais a bajar",
+                "ellas": "van a bajar"
+            },
+            "futuro": {
+                "yo": "bajaré",
+                "tú": "bajarás",
+                "él": "bajará",
+                "nosotros": "bajaremos",
+                "vosotros": "bajaréis",
+                "ellas": "bajararán"
+            }
+        }
+    },
+    {
+        "verb": "enviar",
+        "meaning": "to send",
+        "kind": "ar",
+        "tiempos": {
+            "presente": {
+                "yo": "envío",
+                "tú": "envías",
+                "él": "envía",
+                "nosotros": "enviamos",
+                "vosotros": "enviais",
+                "ellas": "envían"
+            },
+            "indefinido": {
+                "yo": "envié",
+                "tú": "enviaste",
+                "él": "envió",
+                "nosotros": "enviamos",
+                "vosotros": "enviasteis",
+                "ellas": "enviaron"
+            },
+            "imperfecto": {
+                "yo": "enviaba",
+                "tú": "enviabas",
+                "él": "enviaba",
+                "nosotros": "enviábamos",
+                "vosotros": "enviabais",
+                "ellas": "enviaban"
+            },
+            "futuro immediato": {
+                "yo": "voy a enviar",
+                "tú": "vas a enviar",
+                "él": "va a enviar",
+                "nosotros": "vamos a enviar",
+                "vosotros": "vais a enviar",
+                "ellas": "van a enviar"
+            },
+            "futuro": {
+                "yo": "enviaré",
+                "tú": "enviarás",
+                "él": "enviará",
+                "nosotros": "enviaremos",
+                "vosotros": "enviaréis",
+                "ellas": "enviararán"
+            }
+        }
+    },
+    {
+    "verb": "tomar",
+    "meaning": "to take",
+    "kind": "ar",
+    "tiempos": {
+        "presente": {
+            "yo": "tomo",
+            "tú": "tomas",
+            "él": "toma",
+            "nosotros": "tomamos",
+            "vosotros": "tomáis",
+            "ellas": "toman"
+        },
+        "indefinido": {
+            "yo": "tomé",
+            "tú": "tomaste",
+            "él": "tomó",
+            "nosotros": "tomamos",
+            "vosotros": "tomasteis",
+            "ellas": "tomaron"
+        },
+        "imperfecto": {
+            "yo": "tomaba",
+            "tú": "tomabas",
+            "él": "tomaba",
+            "nosotros": "tomábamos",
+            "vosotros": "tomabais",
+            "ellas": "tomaban"
+        },
+        "futuro immediato": {
+            "yo": "voy a tomar",
+            "tú": "vas a tomar",
+            "él": "va a tomar",
+            "nosotros": "vamos a tomar",
+            "vosotros": "vais a tomar",
+            "ellas": "van a tomar"
+        },
+        "futuro": {
+            "yo": "tomaré",
+            "tú": "tomarás",
+            "él": "tomará",
+            "nosotros": "tomaremos",
+            "vosotros": "tomaréis",
+            "ellas": "tomararán"
+        }
+    }
+}]

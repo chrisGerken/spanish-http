@@ -3,10 +3,34 @@
 
 
 body {
-    background-color: blue;
+    background-color: lightgray;
 }
 
 h1 {
     color: navy;
     margin-left: 20px;
+}
+
+.question {
+  margin-left: 60px;
+}
+
+th {
+	padding: 10px;
+}
+
+td {
+	padding: 10px;
+}
+
+.ar {
+	background-color: cyan;
+}
+
+.optionCell {
+	vertical-align: top;
+}
+
+.answerButton {
+	font-size: 18px;
 }

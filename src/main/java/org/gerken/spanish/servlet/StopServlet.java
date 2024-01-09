@@ -57,8 +57,8 @@ public class StopServlet extends AbstractSpanishServlet {
 		writer.println("</head>");
 		
 
-		writer.println("<h1>Server stop</h1>");
-		writer.println("<p>Server is stopping");
+		writer.println("<h1>Ending Practice Session</h1>");
+		writer.println("<p>Practice app is stopping");
 
 		writer.println("<html>");
 

@@ -1,0 +1,472 @@
+[
+    {
+        "verb": "dormir",
+        "meaning": "to sleep",
+        "kind": "ir",
+        "tiempos": {
+            "presente": {
+                "yo": "duermo",
+                "tú": "duermes",
+                "él": "duerme",
+                "nosotros": "dormimos",
+                "vosotros": "dormis",
+                "ellas": "duermem"
+            },
+            "indefinido": {
+                "yo": "dormí",
+                "tú": "dormiste",
+                "él": "dormió",
+                "nosotros": "dormimos",
+                "vosotros": "dormisteis",
+                "ellas": "dormieron"
+            },
+            "imperfecto": {
+                "yo": "dormía",
+                "tú": "dormías",
+                "él": "dormía",
+                "nosotros": "dormíamos",
+                "vosotros": "dormíais",
+                "ellas": "dormían"
+            },
+            "futuro immediato": {
+                "yo": "voy a dormir",
+                "tú": "vas a dormir",
+                "él": "va a dormir",
+                "nosotros": "vamos a dormir",
+                "vosotros": "vais a dormir",
+                "ellas": "van a dormir"
+            },
+            "futuro": {
+                "yo": "dormiré",
+                "tú": "dormirás",
+                "él": "dormirá",
+                "nosotros": "dormiremos",
+                "vosotros": "dormiréis",
+                "ellas": "dormirarán"
+            }
+        }
+    },
+    {
+        "verb": "escribir",
+        "meaning": "to write",
+        "kind": "ir",
+        "tiempos": {
+            "presente": {
+                "yo": "escribo",
+                "tú": "escribes",
+                "él": "escribe",
+                "nosotros": "escribimos",
+                "vosotros": "escribís",
+                "ellas": "escriben"
+            },
+            "indefinido": {
+                "yo": "escribí",
+                "tú": "escribiste",
+                "él": "escribió",
+                "nosotros": "escribimos",
+                "vosotros": "escribisteis",
+                "ellas": "escribieron"
+            },
+            "imperfecto": {
+                "yo": "escribía",
+                "tú": "escribías",
+                "él": "escribía",
+                "nosotros": "escribíamos",
+                "vosotros": "escribías",
+                "ellas": "escribían"
+            },
+            "futuro immediato": {
+                "yo": "voy a escribir",
+                "tú": "vas a escribir",
+                "él": "va a escribir",
+                "nosotros": "vamos a escribir",
+                "vosotros": "vais a escribir",
+                "ellas": "van a escribir"
+            },
+            "futuro": {
+                "yo": "escribiré",
+                "tú": "escribirás",
+                "él": "escribirá",
+                "nosotros": "escribiremos",
+                "vosotros": "escribiréis",
+                "ellas": "escribirarán"
+            }
+        }
+    },
+    {
+        "verb": "entender",
+        "meaning": "to learn",
+        "kind": "3r",
+        "tiempos": {
+            "presente": {
+                "yo": "intiendo",
+                "tú": "intiendes",
+                "él": "intiende",
+                "nosotros": "intendemos",
+                "vosotros": "intendéis",
+                "ellas": "intienden"
+            },
+            "indefinido": {
+                "yo": "intendí",
+                "tú": "intendiste",
+                "él": "intendió",
+                "nosotros": "intendimos",
+                "vosotros": "intendisteis",
+                "ellas": "intendieron"
+            },
+            "imperfecto": {
+                "yo": "intendía",
+                "tú": "intendías",
+                "él": "intendía",
+                "nosotros": "intendíamos",
+                "vosotros": "intendíais",
+                "ellas": "intendíeron"
+            },
+            "futuro immediato": {
+                "yo": "voy a entender",
+                "tú": "vas a entender",
+                "él": "va a entender",
+                "nosotros": "vamos a entender",
+                "vosotros": "vais a entender",
+                "ellas": "van a entender"
+            },
+            "futuro": {
+                "yo": "entenderé",
+                "tú": "entenderás",
+                "él": "entenderá",
+                "nosotros": "entenderemos",
+                "vosotros": "entenderéis",
+                "ellas": "entenderarán"
+            }
+        }
+    },
+    {
+        "verb": "comer",
+        "meaning": "to eat",
+        "kind": "er",
+        "tiempos": {
+            "presente": {
+                "yo": "como",
+                "tú": "comes",
+                "él": "come",
+                "nosotros": "comemos",
+                "vosotros": "coméis",
+                "ellas": "comen"
+            },
+            "indefinido": {
+                "yo": "comí",
+                "tú": "comiste",
+                "él": "comió",
+                "nosotros": "comemos",
+                "vosotros": "coméis",
+                "ellas": "comen"
+            },
+            "imperfecto": {
+                "yo": "comía",
+                "tú": "comías",
+                "él": "comía",
+                "nosotros": "comíamos",
+                "vosotros": "comíais",
+                "ellas": "comían"
+            },
+            "futuro immediato": {
+                "yo": "voy a comer",
+                "tú": "vas a comer",
+                "él": "va a comer",
+                "nosotros": "vamos a comer",
+                "vosotros": "vais a comer",
+                "ellas": "van a comer"
+            },
+            "futuro": {
+                "yo": "comeré",
+                "tú": "comerás",
+                "él": "comerá",
+                "nosotros": "comeremos",
+                "vosotros": "comeréis",
+                "ellas": "comerarán"
+            }
+        }
+    },
+    {
+        "verb": "beber",
+        "meaning": "to drink",
+        "kind": "er",
+        "tiempos": {
+            "presente": {
+                "yo": "bebo",
+                "tú": "bebes",
+                "él": "bebe",
+                "nosotros": "bebemos",
+                "vosotros": "bebéis",
+                "ellas": "beben"
+            },
+            "indefinido": {
+                "yo": "bebí",
+                "tú": "bebiste",
+                "él": "bebió",
+                "nosotros": "bebimos",
+                "vosotros": "bebisteis",
+                "ellas": "bebieron"
+            },
+            "imperfecto": {
+                "yo": "bebía",
+                "tú": "bebías",
+                "él": "bebía",
+                "nosotros": "bebíamos",
+                "vosotros": "bebíais",
+                "ellas": "bebían"
+            },
+            "futuro immediato": {
+                "yo": "voy a beber",
+                "tú": "vas a beber",
+                "él": "va a beber",
+                "nosotros": "vamos a beber",
+                "vosotros": "vais a beber",
+                "ellas": "van a beber"
+            },
+            "futuro": {
+                "yo": "beberé",
+                "tú": "beberás",
+                "él": "beberá",
+                "nosotros": "beberemos",
+                "vosotros": "beberéis",
+                "ellas": "beberarán"
+            }
+        }
+    },
+    {
+        "verb": "aprender",
+        "meaning": "to understand",
+        "kind": "er",
+        "tiempos": {
+            "presente": {
+                "yo": "aprendo",
+                "tú": "aprendes",
+                "él": "aprende",
+                "nosotros": "aprendemos",
+                "vosotros": "aprendéis",
+                "ellas": "aprenden"
+            },
+            "indefinido": {
+                "yo": "aprendí",
+                "tú": "aprendiste",
+                "él": "aprendió",
+                "nosotros": "aprendimos",
+                "vosotros": "aprendisteis",
+                "ellas": "aprendieron"
+            },
+            "imperfecto": {
+                "yo": "aprendía",
+                "tú": "aprendías",
+                "él": "aprendía",
+                "nosotros": "aprendíamos",
+                "vosotros": "aprendíais",
+                "ellas": "aprendían"
+            },
+            "futuro immediato": {
+                "yo": "voy a aprender",
+                "tú": "vas a aprender",
+                "él": "va a aprender",
+                "nosotros": "vamos a aprender",
+                "vosotros": "vais a aprender",
+                "ellas": "van a aprender"
+            },
+            "futuro": {
+                "yo": "aprenderé",
+                "tú": "aprenderás",
+                "él": "aprenderá",
+                "nosotros": "aprenderemos",
+                "vosotros": "aprenderéis",
+                "ellas": "aprenderarán"
+            }
+        }
+    },
+    {
+        "verb": "querer",
+        "meaning": "to want",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "quiero",
+                "tú": "quieres",
+                "él": "quiere",
+                "nosotros": "queremos",
+                "vosotros": "queréis",
+                "ellas": "quieren"
+            },
+            "indefinido": {
+                "yo": "quise",
+                "tú": "quisiste",
+                "él": "quiso",
+                "nosotros": "quisimos",
+                "vosotros": "quisisteis",
+                "ellas": "quisieron"
+            },
+            "imperfecto": {
+                "yo": "quería",
+                "tú": "querías",
+                "él": "quería",
+                "nosotros": "queríamos",
+                "vosotros": "queríais",
+                "ellas": "querían"
+            },
+            "futuro immediato": {
+                "yo": "voy a querer",
+                "tú": "vas a querer",
+                "él": "va a querer",
+                "nosotros": "vamos a querer",
+                "vosotros": "vais a querer",
+                "ellas": "van a querer"
+            },
+            "futuro": {
+                "yo": "quereré",
+                "tú": "quererás",
+                "él": "quererá",
+                "nosotros": "quereremos",
+                "vosotros": "quereréis",
+                "ellas": "quererarán"
+            }
+        }
+    },
+    {
+        "verb": "poder",
+        "meaning": "to be able",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "puedo",
+                "tú": "puedes",
+                "él": "puede",
+                "nosotros": "podemos",
+                "vosotros": "podéis",
+                "ellas": "pueden"
+            },
+            "indefinido": {
+                "yo": "pude",
+                "tú": "pudiste",
+                "él": "pudo",
+                "nosotros": "pudimos",
+                "vosotros": "pudisteis",
+                "ellas": "pudieron"
+            },
+            "imperfecto": {
+                "yo": "podía",
+                "tú": "podías",
+                "él": "podía",
+                "nosotros": "podíamos",
+                "vosotros": "podíais",
+                "ellas": "podían"
+            },
+            "futuro immediato": {
+                "yo": "voy a poder",
+                "tú": "vas a poder",
+                "él": "va a poder",
+                "nosotros": "vamos a poder",
+                "vosotros": "vais a poder",
+                "ellas": "van a poder"
+            },
+            "futuro": {
+                "yo": "poderé",
+                "tú": "poderás",
+                "él": "poderá",
+                "nosotros": "poderemos",
+                "vosotros": "poderéis",
+                "ellas": "poderarán"
+            }
+        }
+    },
+    {
+        "verb": "saber",
+        "meaning": "to know",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "sé",
+                "tú": "sabes",
+                "él": "sabe",
+                "nosotros": "sabemos",
+                "vosotros": "sabéis",
+                "ellas": "saben"
+            },
+            "indefinido": {
+                "yo": "supe",
+                "tú": "supiste",
+                "él": "supo",
+                "nosotros": "supimos",
+                "vosotros": "supisteis",
+                "ellas": "supieron"
+            },
+            "imperfecto": {
+                "yo": "sabía",
+                "tú": "sabías",
+                "él": "sabía",
+                "nosotros": "sabíamos",
+                "vosotros": "sabíais",
+                "ellas": "sabían"
+            },
+            "futuro immediato": {
+                "yo": "voy a saber",
+                "tú": "vas a saber",
+                "él": "va a saber",
+                "nosotros": "vamos a saber",
+                "vosotros": "vais a saber",
+                "ellas": "van a saber"
+            },
+            "futuro": {
+                "yo": "saberé",
+                "tú": "saberás",
+                "él": "saberá",
+                "nosotros": "saberemos",
+                "vosotros": "saberéis",
+                "ellas": "saberarán"
+            }
+        }
+    },
+    {
+        "verb": "decir",
+        "meaning": "to say",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "digo",
+                "tú": "dices",
+                "él": "dice",
+                "nosotros": "decimos",
+                "vosotros": "decis",
+                "ellas": "dicen"
+            },
+            "indefinido": {
+                "yo": "dije",
+                "tú": "dijiste",
+                "él": "dijo",
+                "nosotros": "dijimos",
+                "vosotros": "dijisteis",
+                "ellas": "dijeron"
+            },
+            "imperfecto": {
+                "yo": "decía",
+                "tú": "decías",
+                "él": "decía",
+                "nosotros": "decíamos",
+                "vosotros": "decíais",
+                "ellas": "decían"
+            },
+            "futuro immediato": {
+                "yo": "voy a decir",
+                "tú": "vas a decir",
+                "él": "va a decir",
+                "nosotros": "vamos a decir",
+                "vosotros": "vais a decir",
+                "ellas": "van a decir"
+            },
+            "futuro": {
+                "yo": "deciré",
+                "tú": "decirás",
+                "él": "decirá",
+                "nosotros": "deciremos",
+                "vosotros": "deciréis",
+                "ellas": "decirarán"
+            }
+        }
+    }
+]

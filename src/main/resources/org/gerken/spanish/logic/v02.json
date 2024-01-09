@@ -1,0 +1,143 @@
+[
+    {
+        "verb": "estar",
+        "meaning": "to be (temp)",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "estoy",
+                "tú": "estás",
+                "él": "está",
+                "nosotros": "estamos",
+                "vosotros": "estáis",
+                "ellas": "están"
+            },
+            "indefinido": {
+                "yo": "estuve",
+                "tú": "estuviste",
+                "él": "estuvo",
+                "nosotros": "estuvimos",
+                "vosotros": "estuvisteis",
+                "ellas": "estuvieron"
+            },
+            "imperfecto": {
+                "yo": "estaba",
+                "tú": "estabas",
+                "él": "estaba",
+                "nosotros": "estábamos",
+                "vosotros": "estabais",
+                "ellas": "estaban"
+            },
+            "futuro immediato": {
+                "yo": "voy a estar",
+                "tú": "vas a estar",
+                "él": "va a estar",
+                "nosotros": "vamos a estar",
+                "vosotros": "vais a estar",
+                "ellas": "van a estar"
+            },
+            "futuro": {
+                "yo": "estaré",
+                "tú": "estarás",
+                "él": "estará",
+                "nosotros": "estaremos",
+                "vosotros": "estaréis",
+                "ellas": "estarán"
+            }
+        }
+    },
+    {
+        "verb": "ser",
+        "meaning": "to be (perm)",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "soy",
+                "tú": "eres",
+                "él": "es",
+                "nosotros": "somos",
+                "vosotros": "sois",
+                "ellas": "son"
+            },
+            "indefinido": {
+                "yo": "fui",
+                "tú": "fuiste",
+                "él": "fue",
+                "nosotros": "fuimos",
+                "vosotros": "fuisteis",
+                "ellas": "fueron"
+            },
+            "imperfecto": {
+                "yo": "era",
+                "tú": "eras",
+                "él": "era",
+                "nosotros": "éramos",
+                "vosotros": "erais",
+                "ellas": "eran"
+            },
+            "futuro immediato": {
+                "yo": "voy a ser",
+                "tú": "vas a ser",
+                "él": "va a ser",
+                "nosotros": "vamos a ser",
+                "vosotros": "vais a ser",
+                "ellas": "van a ser"
+            },
+            "futuro": {
+                "yo": "seré",
+                "tú": "serás",
+                "él": "será",
+                "nosotros": "seremos",
+                "vosotros": "seréis",
+                "ellas": "serán"
+            }
+        }
+    },
+    {
+        "verb": "ir",
+        "meaning": "to go",
+        "kind": "irregular",
+        "tiempos": {
+            "presente": {
+                "yo": "voy",
+                "tú": "vas",
+                "él": "va",
+                "nosotros": "vamos",
+                "vosotros": "vais",
+                "ellas": "van"
+            },
+            "indefinido": {
+                "yo": "fui",
+                "tú": "fuiste",
+                "él": "fue",
+                "nosotros": "fuimos",
+                "vosotros": "fuisteis",
+                "ellas": "fueron"
+            },
+            "imperfecto": {
+                "yo": "iba",
+                "tú": "ibas",
+                "él": "iba",
+                "nosotros": "ibamos",
+                "vosotros": "ibais",
+                "ellas": "iban"
+            },
+            "futuro immediato": {
+                "yo": "voy a ir",
+                "tú": "vas a ir",
+                "él": "va a ir",
+                "nosotros": "vamos a ir",
+                "vosotros": "vais a ir",
+                "ellas": "van a ir"
+            },
+            "futuro": {
+                "yo": "iré",
+                "tú": "irás",
+                "él": "irá",
+                "nosotros": "iremos",
+                "vosotros": "iréis",
+                "ellas": "irán"
+            }
+        }
+    }
+]
