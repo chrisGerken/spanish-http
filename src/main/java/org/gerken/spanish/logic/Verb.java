@@ -1,6 +1,7 @@
 package org.gerken.spanish.logic;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Objects;
@@ -99,6 +100,17 @@ public class Verb implements Comparable<Verb> {
 	@Override
 	public int compareTo(Verb o) {
 		return sort.compareTo(o.sort);
+	}
+
+	public ArrayList<ConjugationRow> getRows() {
+		ArrayList<ConjugationRow> result = new ArrayList<>();
+		for (String t: spellings.keySet()) {
+			if (spellings.containsKey(t)) {
+				ConjugationRow row = new ConjugationRow(verb, kind, t, spellings.get(t));
+				result.add(row);
+			}
+		}
+		return result;
 	}
 
 }

@@ -15,7 +15,7 @@ public class JsonUtils {
 			
 			jarr.put(templateForVerb("dormir", "to sleer", "ir", "dorm"));
 			jarr.put(templateForVerb("escribir", "to write", "ir", "escrib"));
-			jarr.put(templateForVerb("entender", "to learn", "3r", "intend"));
+			jarr.put(templateForVerb("entender", "to learn", "er", "intend"));
 			jarr.put(templateForVerb("comer", "to eat", "er", "com"));
 			jarr.put(templateForVerb("beber", "to drink", "er", "beb"));
 			jarr.put(templateForVerb("aprender", "to understand", "er", "aprend"));
