@@ -15,8 +15,8 @@ import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.util.resource.PathResource;
 import org.eclipse.jetty.util.resource.Resource;
 import org.eclipse.jetty.util.resource.ResourceCollection;
-import org.gerken.spanish.internal.SpanishPath;
 import org.gerken.spanish.logic.Loader;
+import org.gerken.spanish.servlet.ConjugationsServlet;
 import org.gerken.spanish.servlet.FilterServlet;
 import org.gerken.spanish.servlet.QuestionServlet;
 import org.gerken.spanish.servlet.StatsServlet;
@@ -97,6 +97,7 @@ public class SpanishHttp implements Runnable {
 		handler.addServlet(FilterServlet.class, "/filter/*");
 		handler.addServlet(QuestionServlet.class, "/question/*");
 		handler.addServlet(StatsServlet.class, "/stats/*");
+		handler.addServlet(ConjugationsServlet.class, "/conjugations/*");
 		handler.addServlet(StopServlet.class, "/stop/*");
 		handler.addServlet(DefaultServlet.class, "/");
 
