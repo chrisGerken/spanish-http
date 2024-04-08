@@ -34,14 +34,20 @@ public class Verb implements Comparable<Verb> {
 		
 		for (String t: Constants.tiempo) {
 			
-			JSONObject jobj = tiempos.getJSONObject(t);
-			spellings.put(t, new HashMap<>());
-			
-			for (String p: Constants.persona) {
-				String spelling = jobj.getString(p);
-				spellings.get(t).put(p, jobj.getString(p));
+			if (tiempos.has(t)) {
+				JSONObject jobj = tiempos.getJSONObject(t);
+				spellings.put(t, new HashMap<>());
 				
-				DataBase.common.add(new Conjugation(t, p, spelling, this));
+				for (String p: Constants.persona) {
+					
+					if (jobj.has(p)) {
+						String spelling = jobj.getString(p);
+						spellings.get(t).put(p, jobj.getString(p));
+						
+						DataBase.common.add(new Conjugation(t, p, spelling, this));
+					}
+
+				}
 			}
 			
 		}

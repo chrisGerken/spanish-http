@@ -5,9 +5,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Objects;
 
-import org.codehaus.jettison.json.JSONException;
-import org.codehaus.jettison.json.JSONObject;
-
 public class ConjugationRow implements Comparable<ConjugationRow> {
 
 	private String   			verb;
@@ -16,6 +13,7 @@ public class ConjugationRow implements Comparable<ConjugationRow> {
 	private String[] 			conjugation;
 	private ArrayList<String> 	nav;
 	private ArrayList<String>	sort;
+	private ArrayList<Integer>	spans;
 	
 	public ConjugationRow(String verb, String kind, String tense, HashMap<String, String> hashMap) {
 		super();
@@ -128,6 +126,36 @@ public class ConjugationRow implements Comparable<ConjugationRow> {
 	public String toString() {
 		return "ConjugationRow [verb=" + verb + ", kind=" + kind + ", tense=" + tense + ", conjugation="
 				+ Arrays.toString(conjugation) + "]";
+	}
+
+	public void lookAt(ConjugationRow next) {
+		
+		if (next.spans == null) {
+			next.spans = new ArrayList<>();
+			for (String str: nav) {
+				next.spans.add(1);
+			}
+		}
+
+		spans = new ArrayList<>();
+		
+		boolean newSpan = false;
+		for (int index = 0; index < nav.size(); index++) {
+			if (newSpan) {
+				next.spans.add(index, 1);
+				spans.add(1);
+			} else if (nav.get(index).equals(next.nav.get(index))) {
+				next.nav.set(index, "");
+				spans.add(next.spans.get(index) + 1);
+				next.spans.set(index, 0);
+			} else {
+				newSpan = true;
+				next.spans.add(index, 1);
+				spans.add(1);
+			}
+		}
+		
+		
 	}
 
 

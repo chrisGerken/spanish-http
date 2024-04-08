@@ -120,7 +120,7 @@
                 "él": "intendía",
                 "nosotros": "intendíamos",
                 "vosotros": "intendíais",
-                "ellas": "intendíeron"
+                "ellas": "intendian"
             },
             "futuro immediato": {
                 "yo": "voy a entender",
@@ -157,9 +157,9 @@
                 "yo": "comí",
                 "tú": "comiste",
                 "él": "comió",
-                "nosotros": "comemos",
-                "vosotros": "coméis",
-                "ellas": "comen"
+                "nosotros": "comimos",
+                "vosotros": "comisteis",
+                "ellas": "comíeron"
             },
             "imperfecto": {
                 "yo": "comía",

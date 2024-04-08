@@ -1,0 +1,607 @@
+<tr class="row-1 odd">
+	<td class="column-1">Abanderar/Registrar</td><td class="column-2">To register</td>
+</tr>
+<tr class="row-2 even">
+	<td class="column-1">Abrir</td><td class="column-2">To open</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Aburrir</td><td class="column-2">To bore</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Acabar</td><td class="column-2">To finish</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Aceptar</td><td class="column-2">To accept</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">Acordar</td><td class="column-2">To do something</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">Acostar</td><td class="column-2">To go to bed</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">Almorzar</td><td class="column-2">To have lunch</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">Amar</td><td class="column-2">To love</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">Andar</td><td class="column-2">To walk</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">Apagar</td><td class="column-2">Off – putout – extinguish</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">Aprender</td><td class="column-2">To learn</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">Asistir</td><td class="column-2">To assist – attend</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">Ayudar</td><td class="column-2">To help</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">Bailar</td><td class="column-2">To dance</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">Bajar</td><td class="column-2">To go down – get off (bus)</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">Beber</td><td class="column-2">To drink<br>
+</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">Buscar</td><td class="column-2">To look for</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">Caber</td><td class="column-2">To fit</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">Caer</td><td class="column-2">To fall</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1">Cambiar</td><td class="column-2">To change</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1">Cantar</td><td class="column-2">To sing</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">Casar</td><td class="column-2">To marry / get married</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">Cenar</td><td class="column-2">To have dinner, To have a evening meal.</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">Cerrar</td><td class="column-2">To close</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1">Cocinar</td><td class="column-2">To cook</td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1">Coger</td><td class="column-2">To pick up / take / catch</td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1">Comenzar</td><td class="column-2">To star / begin</td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1">Comer</td><td class="column-2">To eat</td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">Compartir</td><td class="column-2">To share</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1">Comprar</td><td class="column-2">To buy</td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1">Comprender</td><td class="column-2">To understand</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1">Conducir</td><td class="column-2">To driver</td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1">Conocer</td><td class="column-2">To know</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1">Conseguir</td><td class="column-2">To obtein / fin</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1">Construir</td><td class="column-2">To build</td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1">Contar<br></td><td class="column-2">To count / tell</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1">Corregir</td><td class="column-2">To correct</td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1">Correr</td><td class="column-2">To run</td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1">Cortar</td><td class="column-2">To cut</td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1">Costar</td><td class="column-2">To cost</td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1">Crear</td><td class="column-2">To create</td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1">Crecer</td><td class="column-2">To grow</td>
+</tr>
+<tr class="row-44 even">
+	<td class="column-1">Creer</td><td class="column-2">To think</td>
+</tr>
+<tr class="row-45 odd">
+	<td class="column-1">Cruzar</td><td class="column-2">To cross</td>
+</tr>
+<tr class="row-46 even">
+	<td class="column-1">Cubrir</td><td class="column-2">To cover</td>
+</tr>
+<tr class="row-47 odd">
+	<td class="column-1">Dar</td><td class="column-2">To give</td>
+</tr>
+<tr class="row-48 even">
+	<td class="column-1">Deber</td><td class="column-2">To must</td>
+</tr>
+<tr class="row-49 odd">
+	<td class="column-1">Decidir</td><td class="column-2">To decide</td>
+</tr>
+<tr class="row-50 even">
+	<td class="column-1">Decir</td><td class="column-2">To say / tell</td>
+</tr>
+<tr class="row-51 odd">
+	<td class="column-1">Defender</td><td class="column-2">To defend / stand up for</td>
+</tr>
+<tr class="row-52 even">
+	<td class="column-1">Dejar</td><td class="column-2">To leave</td>
+</tr>
+<tr class="row-53 odd">
+	<td class="column-1">Desayunar</td><td class="column-2">To have breakfast</td>
+</tr>
+<tr class="row-54 even">
+	<td class="column-1">Descubrir</td><td class="column-2">To discover</td>
+</tr>
+<tr class="row-55 odd">
+	<td class="column-1">Desear</td><td class="column-2">To wish</td>
+</tr>
+<tr class="row-56 even">
+	<td class="column-1">Despedir</td><td class="column-2">To say goodbye</td>
+</tr>
+<tr class="row-57 odd">
+	<td class="column-1">Despertar</td><td class="column-2">To wake up</td>
+</tr>
+<tr class="row-58 even">
+	<td class="column-1">Destruir</td><td class="column-2">To destroy / wreck / demolish</td>
+</tr>
+<tr class="row-59 odd">
+	<td class="column-1">Devolver</td><td class="column-2">To return</td>
+</tr>
+<tr class="row-60 even">
+	<td class="column-1">Dirigir</td><td class="column-2">To manage</td>
+</tr>
+<tr class="row-61 odd">
+	<td class="column-1">Divertir</td><td class="column-2">To entertain / have fun</td>
+</tr>
+<tr class="row-62 even">
+	<td class="column-1">Doler</td><td class="column-2">to hurt</td>
+</tr>
+<tr class="row-63 odd">
+	<td class="column-1">Dormir</td><td class="column-2">To sleep</td>
+</tr>
+<tr class="row-64 even">
+	<td class="column-1">Duchar</td><td class="column-2">To take a shower</td>
+</tr>
+<tr class="row-65 odd">
+	<td class="column-1">Echar</td><td class="column-2">To throw</td>
+</tr>
+<tr class="row-66 even">
+	<td class="column-1">Elegir</td><td class="column-2">To choose</td>
+</tr>
+<tr class="row-67 odd">
+	<td class="column-1">Empezar</td><td class="column-2">To begin</td>
+</tr>
+<tr class="row-68 even">
+	<td class="column-1">Encantar</td><td class="column-2">To love something</td>
+</tr>
+<tr class="row-69 odd">
+	<td class="column-1">Encender</td><td class="column-2">To light / turn on</td>
+</tr>
+<tr class="row-70 even">
+	<td class="column-1">Encontrar</td><td class="column-2">To find</td>
+</tr>
+<tr class="row-71 odd">
+	<td class="column-1">Entender</td><td class="column-2">To understand</td>
+</tr>
+<tr class="row-72 even">
+	<td class="column-1">Entrar</td><td class="column-2">To go in</td>
+</tr>
+<tr class="row-73 odd">
+	<td class="column-1">Enviar</td><td class="column-2">To send</td>
+</tr>
+<tr class="row-74 even">
+	<td class="column-1">Escoger</td><td class="column-2">To choose</td>
+</tr>
+<tr class="row-75 odd">
+	<td class="column-1">Escribir</td><td class="column-2">To writte</td>
+</tr>
+<tr class="row-76 even">
+	<td class="column-1">Escuchar</td><td class="column-2">To listen</td>
+</tr>
+<tr class="row-77 odd">
+	<td class="column-1">Esperar</td><td class="column-2">To wait</td>
+</tr>
+<tr class="row-78 even">
+	<td class="column-1">Estar</td><td class="column-2">To be</td>
+</tr>
+<tr class="row-79 odd">
+	<td class="column-1">Estudiar</td><td class="column-2">To study</td>
+</tr>
+<tr class="row-80 even">
+	<td class="column-1">Exigir</td><td class="column-2">To demand / require</td>
+</tr>
+<tr class="row-81 odd">
+	<td class="column-1">Explicar</td><td class="column-2">To explain</td>
+</tr>
+<tr class="row-82 even">
+	<td class="column-1">Ganar</td><td class="column-2">To win</td>
+</tr>
+<tr class="row-83 odd">
+	<td class="column-1">Gastar</td><td class="column-2">To spend</td>
+</tr>
+<tr class="row-84 even">
+	<td class="column-1">Gustar</td><td class="column-2">To like</td>
+</tr>
+<tr class="row-85 odd">
+	<td class="column-1">Haber</td><td class="column-2">To have</td>
+</tr>
+<tr class="row-86 even">
+	<td class="column-1">Habilitar</td><td class="column-2">To fit out / authorise</td>
+</tr>
+<tr class="row-87 odd">
+	<td class="column-1">Habitar</td><td class="column-2">To inhabit</td>
+</tr>
+<tr class="row-88 even">
+	<td class="column-1">Habituar</td><td class="column-2">To get used to</td>
+</tr>
+<tr class="row-89 odd">
+	<td class="column-1">Hablar</td><td class="column-2">To speak</td>
+</tr>
+<tr class="row-90 even">
+	<td class="column-1">Hacer</td><td class="column-2">To make, to do</td>
+</tr>
+<tr class="row-91 odd">
+	<td class="column-1">Hackear</td><td class="column-2">To hack</td>
+</tr>
+<tr class="row-92 even">
+	<td class="column-1">Halagar</td><td class="column-2">To flatter</td>
+</tr>
+<tr class="row-93 odd">
+	<td class="column-1">Hartar</td><td class="column-2">To get bored of</td>
+</tr>
+<tr class="row-94 even">
+	<td class="column-1">Helar</td><td class="column-2">To freeze</td>
+</tr>
+<tr class="row-95 odd">
+	<td class="column-1">Henchir</td><td class="column-2">To fill</td>
+</tr>
+<tr class="row-96 even">
+	<td class="column-1">Herir</td><td class="column-2">To hurt</td>
+</tr>
+<tr class="row-97 odd">
+	<td class="column-1">Hervir</td><td class="column-2">To boil</td>
+</tr>
+<tr class="row-98 even">
+	<td class="column-1">Hinchar</td><td class="column-2">To swell</td>
+</tr>
+<tr class="row-99 odd">
+	<td class="column-1">Hospedar</td><td class="column-2">To provide accomodation</td>
+</tr>
+<tr class="row-100 even">
+	<td class="column-1">Hostigar</td><td class="column-2">To bother, pester</td>
+</tr>
+<tr class="row-101 odd">
+	<td class="column-1">Huir</td><td class="column-2">To run away, to escape</td>
+</tr>
+<tr class="row-102 even">
+	<td class="column-1">Incluir</td><td class="column-2">To include</td>
+</tr>
+<tr class="row-103 odd">
+	<td class="column-1">Ir</td><td class="column-2">To go</td>
+</tr>
+<tr class="row-104 even">
+	<td class="column-1">Jugar</td><td class="column-2">To play</td>
+</tr>
+<tr class="row-105 odd">
+	<td class="column-1">Lavar</td><td class="column-2">To wash</td>
+</tr>
+<tr class="row-106 even">
+	<td class="column-1">Leer</td><td class="column-2">To read</td>
+</tr>
+<tr class="row-107 odd">
+	<td class="column-1">Levantar</td><td class="column-2">To raise</td>
+</tr>
+<tr class="row-108 even">
+	<td class="column-1">Limpiar</td><td class="column-2">To clean</td>
+</tr>
+<tr class="row-109 odd">
+	<td class="column-1">Llamar</td><td class="column-2">To call</td>
+</tr>
+<tr class="row-110 even">
+	<td class="column-1">Llenar</td><td class="column-2">To fill</td>
+</tr>
+<tr class="row-111 odd">
+	<td class="column-1">Llegar</td><td class="column-2">To arrive</td>
+</tr>
+<tr class="row-112 even">
+	<td class="column-1">Llevar</td><td class="column-2">To carry, wear</td>
+</tr>
+<tr class="row-113 odd">
+	<td class="column-1">Llorar</td><td class="column-2">To cry</td>
+</tr>
+<tr class="row-114 even">
+	<td class="column-1">Llover</td><td class="column-2">To rain</td>
+</tr>
+<tr class="row-115 odd">
+	<td class="column-1">Mandar</td><td class="column-2">To order</td>
+</tr>
+<tr class="row-116 even">
+	<td class="column-1">Manejar</td><td class="column-2">To handle, use, manage.</td>
+</tr>
+<tr class="row-117 odd">
+	<td class="column-1">Mantener</td><td class="column-2">To maintain</td>
+</tr>
+<tr class="row-118 even">
+	<td class="column-1">Medir</td><td class="column-2">To measure</td>
+</tr>
+<tr class="row-119 odd">
+	<td class="column-1">Mentir</td><td class="column-2">To lie</td>
+</tr>
+<tr class="row-120 even">
+	<td class="column-1">Mirar</td><td class="column-2">To look at, wash</td>
+</tr>
+<tr class="row-121 odd">
+	<td class="column-1">Morir</td><td class="column-2">To die</td>
+</tr>
+<tr class="row-122 even">
+	<td class="column-1">Mostrar</td><td class="column-2">To show</td>
+</tr>
+<tr class="row-123 odd">
+	<td class="column-1">Mover</td><td class="column-2">To move</td>
+</tr>
+<tr class="row-124 even">
+	<td class="column-1">Nace</td><td class="column-2">To beborn</td>
+</tr>
+<tr class="row-125 odd">
+	<td class="column-1">Nadar</td><td class="column-2">To swim</td>
+</tr>
+<tr class="row-126 even">
+	<td class="column-1">Necesitar</td><td class="column-2">To need</td>
+</tr>
+<tr class="row-127 odd">
+	<td class="column-1">Obtener</td><td class="column-2">To obtain, win, get.</td>
+</tr>
+<tr class="row-128 even">
+	<td class="column-1">Ofrecer</td><td class="column-2">To offer</td>
+</tr>
+<tr class="row-129 odd">
+	<td class="column-1">Oír</td><td class="column-2">To hear</td>
+</tr>
+<tr class="row-130 even">
+	<td class="column-1">Oler</td><td class="column-2">To smell</td>
+</tr>
+<tr class="row-131 odd">
+	<td class="column-1">Olvidar</td><td class="column-2">To forget</td>
+</tr>
+<tr class="row-132 even">
+	<td class="column-1">Organizar</td><td class="column-2">To organize</td>
+</tr>
+<tr class="row-133 odd">
+	<td class="column-1">Pagar</td><td class="column-2">To pay</td>
+</tr>
+<tr class="row-134 even">
+	<td class="column-1">Parar</td><td class="column-2">To stop</td>
+</tr>
+<tr class="row-135 odd">
+	<td class="column-1">Parecer</td><td class="column-2">To look like, seem</td>
+</tr>
+<tr class="row-136 even">
+	<td class="column-1">Pasar</td><td class="column-2">To pass</td>
+</tr>
+<tr class="row-137 odd">
+	<td class="column-1">Pedir</td><td class="column-2">To ask, ask for</td>
+</tr>
+<tr class="row-138 even">
+	<td class="column-1">Pensar</td><td class="column-2">To think</td>
+</tr>
+<tr class="row-139 odd">
+	<td class="column-1">Perder</td><td class="column-2">To lose</td>
+</tr>
+<tr class="row-140 even">
+	<td class="column-1">Permitir</td><td class="column-2">To allow</td>
+</tr>
+<tr class="row-141 odd">
+	<td class="column-1">Poder</td><td class="column-2">Be able to</td>
+</tr>
+<tr class="row-142 even">
+	<td class="column-1">Poner</td><td class="column-2">To put</td>
+</tr>
+<tr class="row-143 odd">
+	<td class="column-1">Practicar</td><td class="column-2">To practise</td>
+</tr>
+<tr class="row-144 even">
+	<td class="column-1">Preferir</td><td class="column-2">To prefer</td>
+</tr>
+<tr class="row-145 odd">
+	<td class="column-1">Preguntar</td><td class="column-2">To ask</td>
+</tr>
+<tr class="row-146 even">
+	<td class="column-1">Preparar</td><td class="column-2">To prepare</td>
+</tr>
+<tr class="row-147 odd">
+	<td class="column-1">Prestar</td><td class="column-2">To lend</td>
+</tr>
+<tr class="row-148 even">
+	<td class="column-1">Probar</td><td class="column-2">To taste, try, try on</td>
+</tr>
+<tr class="row-149 odd">
+	<td class="column-1">Proteger</td><td class="column-2">To protect</td>
+</tr>
+<tr class="row-150 even">
+	<td class="column-1">Quedar</td><td class="column-2">To stay</td>
+</tr>
+<tr class="row-151 odd">
+	<td class="column-1">Quejar</td><td class="column-2">To complain</td>
+</tr>
+<tr class="row-152 even">
+	<td class="column-1">Querer</td><td class="column-2">To want</td>
+</tr>
+<tr class="row-153 odd">
+	<td class="column-1">Quitar</td><td class="column-2">To take off</td>
+</tr>
+<tr class="row-154 even">
+	<td class="column-1">Recibir</td><td class="column-2">To receive</td>
+</tr>
+<tr class="row-155 odd">
+	<td class="column-1">Recoger</td><td class="column-2">To pick up</td>
+</tr>
+<tr class="row-156 even">
+	<td class="column-1">Recomendar</td><td class="column-2">To recommend</td>
+</tr>
+<tr class="row-157 odd">
+	<td class="column-1">Recordar</td><td class="column-2">To remember</td>
+</tr>
+<tr class="row-158 even">
+	<td class="column-1">Regresar</td><td class="column-2">To go back, come back</td>
+</tr>
+<tr class="row-159 odd">
+	<td class="column-1">Reír</td><td class="column-2">To laugh</td>
+</tr>
+<tr class="row-160 even">
+	<td class="column-1">Repetir</td><td class="column-2">To repeat</td>
+</tr>
+<tr class="row-161 odd">
+	<td class="column-1">Resolver</td><td class="column-2">to resolve</td>
+</tr>
+<tr class="row-162 even">
+	<td class="column-1">Rogar</td><td class="column-2">To beg</td>
+</tr>
+<tr class="row-163 odd">
+	<td class="column-1">Romper</td><td class="column-2">To break</td>
+</tr>
+<tr class="row-164 even">
+	<td class="column-1">Rezar</td><td class="column-2">To pray</td>
+</tr>
+<tr class="row-165 odd">
+	<td class="column-1">Remar</td><td class="column-2">To row</td>
+</tr>
+<tr class="row-166 even">
+	<td class="column-1">Saber</td><td class="column-2">To know</td>
+</tr>
+<tr class="row-167 odd">
+	<td class="column-1">Sacar</td><td class="column-2">To take out</td>
+</tr>
+<tr class="row-168 even">
+	<td class="column-1">Salir</td><td class="column-2">To go out</td>
+</tr>
+<tr class="row-169 odd">
+	<td class="column-1">Secar</td><td class="column-2">To dry</td>
+</tr>
+<tr class="row-170 even">
+	<td class="column-1">Seguir</td><td class="column-2">To follow</td>
+</tr>
+<tr class="row-171 odd">
+	<td class="column-1">Sentar</td><td class="column-2">To sit, seat</td>
+</tr>
+<tr class="row-172 even">
+	<td class="column-1">Sentir</td><td class="column-2">To feel</td>
+</tr>
+<tr class="row-173 odd">
+	<td class="column-1">Ser</td><td class="column-2">To be</td>
+</tr>
+<tr class="row-174 even">
+	<td class="column-1">Servir</td><td class="column-2">To serve</td>
+</tr>
+<tr class="row-175 odd">
+	<td class="column-1">Sofreír</td><td class="column-2">To saute, fry.</td>
+</tr>
+<tr class="row-176 even">
+	<td class="column-1">Soler</td><td class="column-2">To ussually do something</td>
+</tr>
+<tr class="row-177 odd">
+	<td class="column-1">Sonar</td><td class="column-2">To sound</td>
+</tr>
+<tr class="row-178 even">
+	<td class="column-1">Sonreír</td><td class="column-2">To smile</td>
+</tr>
+<tr class="row-179 odd">
+	<td class="column-1">Subir</td><td class="column-2">To go up, com up</td>
+</tr>
+<tr class="row-180 even">
+	<td class="column-1">Sugerir</td><td class="column-2">To suggest</td>
+</tr>
+<tr class="row-181 odd">
+	<td class="column-1">Sumergir</td><td class="column-2">To inmerse, submerge, dip.</td>
+</tr>
+<tr class="row-182 even">
+	<td class="column-1">Tener</td><td class="column-2">To have</td>
+</tr>
+<tr class="row-183 odd">
+	<td class="column-1">Terminar</td><td class="column-2">To finish</td>
+</tr>
+<tr class="row-184 even">
+	<td class="column-1">Tocar</td><td class="column-2">To touch</td>
+</tr>
+<tr class="row-185 odd">
+	<td class="column-1">Tomar</td><td class="column-2">To take</td>
+</tr>
+<tr class="row-186 even">
+	<td class="column-1">Trabajar</td><td class="column-2">To work</td>
+</tr>
+<tr class="row-187 odd">
+	<td class="column-1">Traducir</td><td class="column-2">To translate</td>
+</tr>
+<tr class="row-188 even">
+	<td class="column-1">Traer</td><td class="column-2">To bring</td>
+</tr>
+<tr class="row-189 odd">
+	<td class="column-1">Tratar</td><td class="column-2">To treat /try</td>
+</tr>
+<tr class="row-190 even">
+	<td class="column-1">Usar</td><td class="column-2">To use</td>
+</tr>
+<tr class="row-191 odd">
+	<td class="column-1">Valer</td><td class="column-2">To be worth</td>
+</tr>
+<tr class="row-192 even">
+	<td class="column-1">Velar</td><td class="column-2">To guard</td>
+</tr>
+<tr class="row-193 odd">
+	<td class="column-1">Vender</td><td class="column-2">To sale</td>
+</tr>
+<tr class="row-194 even">
+	<td class="column-1">Venir</td><td class="column-2">To come</td>
+</tr>
+<tr class="row-195 odd">
+	<td class="column-1">Ver</td><td class="column-2">To see</td>
+</tr>
+<tr class="row-196 even">
+	<td class="column-1">Vestir</td><td class="column-2">To wear, dress</td>
+</tr>
+<tr class="row-197 odd">
+	<td class="column-1">Viajar</td><td class="column-2">To travel</td>
+</tr>
+<tr class="row-198 even">
+	<td class="column-1">Visitar</td><td class="column-2">To visit</td>
+</tr>
+<tr class="row-199 odd">
+	<td class="column-1">Vivir</td><td class="column-2">To live</td>
+</tr>
+<tr class="row-200 even">
+	<td class="column-1">Volar</td><td class="column-2">To fly</td>
+</tr>
+<tr class="row-201 odd">
+	<td class="column-1">Volver</td><td class="column-2">To return</td>
+</tr>
+<tr class="row-202 even">
+	<td class="column-1">Violar</td><td class="column-2">To violate</td>
+</tr>

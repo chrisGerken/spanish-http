@@ -5,28 +5,28 @@
         "kind": "ar",
         "tiempos": {
             "presente": {
-                "yo": "nodo",
-                "tú": "nodas",
-                "él": "noda",
-                "nosotros": "nodamos",
-                "vosotros": "nodáis",
-                "ellas": "nodan"
+                "yo": "nado",
+                "tú": "nadas",
+                "él": "nada",
+                "nosotros": "nadamos",
+                "vosotros": "nadáis",
+                "ellas": "nadan"
             },
             "indefinido": {
-                "yo": "nodé",
-                "tú": "nodaste",
-                "él": "nodó",
-                "nosotros": "nodamos",
-                "vosotros": "nodasteis",
-                "ellas": "nodaron"
+                "yo": "nadé",
+                "tú": "nadaste",
+                "él": "nadó",
+                "nosotros": "nadamos",
+                "vosotros": "nadasteis",
+                "ellas": "nadaron"
             },
             "imperfecto": {
-                "yo": "nodaba",
-                "tú": "nodabas",
-                "él": "nodaba",
-                "nosotros": "nodábamos",
-                "vosotros": "nodabais",
-                "ellas": "nodaban"
+                "yo": "nadaba",
+                "tú": "nadabas",
+                "él": "nadaba",
+                "nosotros": "nadábamos",
+                "vosotros": "nadabais",
+                "ellas": "nadaban"
             },
             "futuro immediato": {
                 "yo": "voy a nadar",
@@ -205,7 +205,7 @@
                 "tú": "trajiste",
                 "él": "trajo",
                 "nosotros": "trajimos",
-                "vosotros": "trajidteis",
+                "vosotros": "trajisteis",
                 "ellas": "trajeron"
             },
             "imperfecto": {

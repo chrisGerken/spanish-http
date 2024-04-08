@@ -118,6 +118,12 @@ public class ConjugationsServlet extends AbstractSpanishServlet {
 		}
 		writer.println("</tr>");
 
+		for (int index = rows.size()-1; index > 0; index--) {
+			ConjugationRow cur = rows.get(index);
+			ConjugationRow prev = rows.get(index-1);
+			prev.lookAt(cur);
+		}
+		
 		for (ConjugationRow cr: rows) {
 
 			writer.println("<tr>");
