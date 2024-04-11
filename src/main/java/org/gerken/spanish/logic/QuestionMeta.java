@@ -43,6 +43,10 @@ public class QuestionMeta {
 			return getQuestionVerb();
 		}
 		
+		if (kind.equals(QUESTION_TO_ENGLISH)) {
+			return getQuestionToEnglish();
+		}
+		
 		return null;
 	}
 
@@ -101,6 +105,30 @@ public class QuestionMeta {
 				q.addOption(buf);
 				q.setAnswer(buf);
 				q.setQuestion(v.getMeaning());
+			}
+		}
+
+		q.setOver(corrects);
+		
+		return q;
+	}
+
+	public Question getQuestionToEnglish() {
+		
+		ArrayList<Verb> verbs = DataBase.common.randomizedVerbs();
+		Question q = new Question();
+		int count = 5;
+		int index = 0;
+		for (Verb v: verbs) {
+			String buf = v.getMeaning();
+			if (index < count) {
+				index++;
+				q.addOption(buf);
+			}
+			if (v.getVerb().equals(verb)) {
+				q.addOption(buf);
+				q.setAnswer(buf);
+				q.setQuestion(v.getVerb());
 			}
 		}
 

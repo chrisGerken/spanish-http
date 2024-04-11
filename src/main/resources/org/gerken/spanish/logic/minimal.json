@@ -1,0 +1,787 @@
+[
+    {
+        "verb": "abrir",
+        "meaning": "to open",
+        "kind": "ir"
+    },
+    {
+        "verb": "aburrir",
+        "meaning": "to annoy, bore",
+        "kind": "ir"
+    },
+    {
+        "verb": "acabar",
+        "meaning": "to finish, end, complete",
+        "kind": "ar"
+    },
+    {
+        "verb": "aceptar",
+        "meaning": "to accept",
+        "kind": "ar"
+    },
+    {
+        "verb": "acordar",
+        "meaning": "to agree (upon), tune",
+        "kind": "ar"
+    },
+    {
+        "verb": "acostar",
+        "meaning": "to go to bed",
+        "kind": "ar"
+    },
+    {
+        "verb": "almorzar",
+        "meaning": "to have lunch",
+        "kind": "ar"
+    },
+    {
+        "verb": "amar",
+        "meaning": "to love",
+        "kind": "ar"
+    },
+    {
+        "verb": "apagar",
+        "meaning": "to put out, turn off, extinguish",
+        "kind": "ar"
+    },
+    {
+        "verb": "asistir",
+        "meaning": "to assist, attend, be present",
+        "kind": "ir"
+    },
+    {
+        "verb": "ayudar",
+        "meaning": "to help",
+        "kind": "ar"
+    },
+    {
+        "verb": "bailar",
+        "meaning": "to dance",
+        "kind": "ar"
+    },
+    {
+        "verb": "buscar",
+        "meaning": "to look for, seek",
+        "kind": "ar"
+    },
+    {
+        "verb": "caber",
+        "meaning": "to fit",
+        "kind": "irregular"
+    },
+    {
+        "verb": "caer",
+        "meaning": "to fall",
+        "kind": "irregular"
+    },
+    {
+        "verb": "cambiar",
+        "meaning": "to change",
+        "kind": "ar"
+    },
+    {
+        "verb": "cantar",
+        "meaning": "to sing",
+        "kind": "ar"
+    },
+    {
+        "verb": "casar",
+        "meaning": "to marry",
+        "kind": "ar"
+    },
+    {
+        "verb": "cenar",
+        "meaning": "to have dinner",
+        "kind": "ar"
+    },
+    {
+        "verb": "cerrar",
+        "meaning": "to close",
+        "kind": "ar"
+    },
+    {
+        "verb": "cocinar",
+        "meaning": "to cook",
+        "kind": "ar"
+    },
+    {
+        "verb": "comenzar",
+        "meaning": "to begin, start",
+        "kind": "ar"
+    },
+    {
+        "verb": "comprender",
+        "meaning": "to understand",
+        "kind": "er"
+    },
+    {
+        "verb": "conducir",
+        "meaning": "to drive",
+        "kind": "ir"
+    },
+    {
+        "verb": "conocer",
+        "meaning": "to know",
+        "kind": "er"
+    },
+    {
+        "verb": "construir",
+        "meaning": "to build, construct",
+        "kind": "ir"
+    },
+    {
+        "verb": "contar",
+        "meaning": "to count",
+        "kind": "ar"
+    },
+    {
+        "verb": "corregir",
+        "meaning": "to correct",
+        "kind": "ir"
+    },
+    {
+        "verb": "correr",
+        "meaning": "to run, flow",
+        "kind": "er"
+    },
+    {
+        "verb": "cortar",
+        "meaning": "to cut",
+        "kind": "ar"
+    },
+    {
+        "verb": "costar",
+        "meaning": "to cost",
+        "kind": "ar"
+    },
+    {
+        "verb": "crear",
+        "meaning": "to create",
+        "kind": "ar"
+    },
+    {
+        "verb": "crecer",
+        "meaning": "to grow",
+        "kind": "er"
+    },
+    {
+        "verb": "creer",
+        "meaning": "to think",
+        "kind": "er"
+    },
+    {
+        "verb": "cruzar",
+        "meaning": "to cross",
+        "kind": "ar"
+    },
+    {
+        "verb": "cubrir",
+        "meaning": "to cover",
+        "kind": "ir"
+    },
+    {
+        "verb": "deber",
+        "meaning": "must, to owe",
+        "kind": "er"
+    },
+    {
+        "verb": "decidir",
+        "meaning": "to decide",
+        "kind": "ir"
+    },
+    {
+        "verb": "defender",
+        "meaning": "to defend \/ stand up for",
+        "kind": "er"
+    },
+    {
+        "verb": "dejar",
+        "meaning": "to allow, permit, leave",
+        "kind": "ar"
+    },
+    {
+        "verb": "desayunar",
+        "meaning": "to have breakfast",
+        "kind": "ar"
+    },
+    {
+        "verb": "descubrir",
+        "meaning": "to discover",
+        "kind": "ir"
+    },
+    {
+        "verb": "desear",
+        "meaning": "to desire, wish",
+        "kind": "ar"
+    },
+    {
+        "verb": "despedir",
+        "meaning": "to say goodbye",
+        "kind": "ir"
+    },
+    {
+        "verb": "despertar",
+        "meaning": "to wake up",
+        "kind": "ar"
+    },
+    {
+        "verb": "destruir",
+        "meaning": "to destroy",
+        "kind": "ir"
+    },
+    {
+        "verb": "devolver",
+        "meaning": "to give back",
+        "kind": "er"
+    },
+    {
+        "verb": "dirigir",
+        "meaning": "to direct",
+        "kind": "ir"
+    },
+    {
+        "verb": "divertir",
+        "meaning": "to have fun",
+        "kind": "ir"
+    },
+    {
+        "verb": "doler",
+        "meaning": "to hurt",
+        "kind": "er"
+    },
+    {
+        "verb": "duchar",
+        "meaning": "to take a shower",
+        "kind": "ar"
+    },
+    {
+        "verb": "echar",
+        "meaning": "to throw",
+        "kind": "ar"
+    },
+    {
+        "verb": "elegir",
+        "meaning": "to elect, choose",
+        "kind": "ir"
+    },
+    {
+        "verb": "empezar",
+        "meaning": "to begin",
+        "kind": "ar"
+    },
+    {
+        "verb": "encantar",
+        "meaning": "to love something",
+        "kind": "ar"
+    },
+    {
+        "verb": "encender",
+        "meaning": "to light, turn on",
+        "kind": "er"
+    },
+    {
+        "verb": "encontrar",
+        "meaning": "to meet, encounter",
+        "kind": "ar"
+    },
+    {
+        "verb": "entrar",
+        "meaning": "to enter",
+        "kind": "ar"
+    },
+    {
+        "verb": "escoger",
+        "meaning": "to select, pick",
+        "kind": "er"
+    },
+    {
+        "verb": "escuchar",
+        "meaning": "to listen",
+        "kind": "ar"
+    },
+    {
+        "verb": "esperar",
+        "meaning": "to wait",
+        "kind": "ar"
+    },
+    {
+        "verb": "estudiar",
+        "meaning": "to study",
+        "kind": "ar"
+    },
+    {
+        "verb": "exigir",
+        "meaning": "to demand, require",
+        "kind": "ir"
+    },
+    {
+        "verb": "explicar",
+        "meaning": "to explain",
+        "kind": "ar"
+    },
+    {
+        "verb": "ganar",
+        "meaning": "to win",
+        "kind": "ar"
+    },
+    {
+        "verb": "gastar",
+        "meaning": "to spend (money)",
+        "kind": "ar"
+    },
+    {
+        "verb": "habitar",
+        "meaning": "to inhabit",
+        "kind": "ar"
+    },
+    {
+        "verb": "hablar",
+        "meaning": "to speak",
+        "kind": "ar"
+    },
+    {
+        "verb": "hacer",
+        "meaning": "to make, do",
+        "kind": "er"
+    },
+    {
+        "verb": "helar",
+        "meaning": "to freeze",
+        "kind": "ar"
+    },
+    {
+        "verb": "herir",
+        "meaning": "to harm, wound",
+        "kind": "ir"
+    },
+    {
+        "verb": "huir",
+        "meaning": "to run away, escape",
+        "kind": "ir"
+    },
+    {
+        "verb": "incluir",
+        "meaning": "to include",
+        "kind": "ir"
+    },
+    {
+        "verb": "jugar",
+        "meaning": "to play",
+        "kind": "ar"
+    },
+    {
+        "verb": "lavar",
+        "meaning": "to wash",
+        "kind": "ar"
+    },
+    {
+        "verb": "leer",
+        "meaning": "to read",
+        "kind": "er"
+    },
+    {
+        "verb": "levantar",
+        "meaning": "to raise, lift",
+        "kind": "ar"
+    },
+    {
+        "verb": "limpiar",
+        "meaning": "to clean",
+        "kind": "ar"
+    },
+    {
+        "verb": "llamar",
+        "meaning": "to call",
+        "kind": "ar"
+    },
+    {
+        "verb": "llenar",
+        "meaning": "to fill",
+        "kind": "ar"
+    },
+    {
+        "verb": "llegar",
+        "meaning": "to arrive",
+        "kind": "ar"
+    },
+    {
+        "verb": "llevar",
+        "meaning": "to carry, wear",
+        "kind": "ar"
+    },
+    {
+        "verb": "llorar",
+        "meaning": "to cry",
+        "kind": "ar"
+    },
+    {
+        "verb": "llover",
+        "meaning": "to rain",
+        "kind": "er"
+    },
+    {
+        "verb": "mandar",
+        "meaning": "to order",
+        "kind": "ar"
+    },
+    {
+        "verb": "manejar",
+        "meaning": "to handle, use, manage",
+        "kind": "ar"
+    },
+    {
+        "verb": "mantener",
+        "meaning": "to maintain",
+        "kind": "er"
+    },
+    {
+        "verb": "medir",
+        "meaning": "to measure",
+        "kind": "ir"
+    },
+    {
+        "verb": "mentir",
+        "meaning": "to lie",
+        "kind": "ir"
+    },
+    {
+        "verb": "mirar",
+        "meaning": "to look at",
+        "kind": "ar"
+    },
+    {
+        "verb": "morir",
+        "meaning": "to die",
+        "kind": "ir"
+    },
+    {
+        "verb": "mostrar",
+        "meaning": "to show",
+        "kind": "ar"
+    },
+    {
+        "verb": "mover",
+        "meaning": "to persuade, excite",
+        "kind": "er"
+    },
+    {
+        "verb": "nace",
+        "meaning": "to be born",
+        "kind": "ce"
+    },
+    {
+        "verb": "necesitar",
+        "meaning": "to need",
+        "kind": "ar"
+    },
+    {
+        "verb": "obtener",
+        "meaning": "to obtain, win, get.",
+        "kind": "er"
+    },
+    {
+        "verb": "ofrecer",
+        "meaning": "to offer",
+        "kind": "er"
+    },
+    {
+        "verb": "oír",
+        "meaning": "to hear",
+        "kind": "ír"
+    },
+    {
+        "verb": "oler",
+        "meaning": "to smell",
+        "kind": "er"
+    },
+    {
+        "verb": "olvidar",
+        "meaning": "to forget",
+        "kind": "ar"
+    },
+    {
+        "verb": "organizar",
+        "meaning": "to organize",
+        "kind": "ar"
+    },
+    {
+        "verb": "pagar",
+        "meaning": "to pay",
+        "kind": "ar"
+    },
+    {
+        "verb": "parar",
+        "meaning": "to stop",
+        "kind": "ar"
+    },
+    {
+        "verb": "parecer",
+        "meaning": "to look like, seem",
+        "kind": "er"
+    },
+    {
+        "verb": "pasar",
+        "meaning": "to pass",
+        "kind": "ar"
+    },
+    {
+        "verb": "pensar",
+        "meaning": "to think",
+        "kind": "ar"
+    },
+    {
+        "verb": "permitir",
+        "meaning": "to allow",
+        "kind": "ir"
+    },
+    {
+        "verb": "practicar",
+        "meaning": "to practise",
+        "kind": "ar"
+    },
+    {
+        "verb": "preferir",
+        "meaning": "to prefer",
+        "kind": "ir"
+    },
+    {
+        "verb": "preguntar",
+        "meaning": "to ask",
+        "kind": "ar"
+    },
+    {
+        "verb": "preparar",
+        "meaning": "to prepare",
+        "kind": "ar"
+    },
+    {
+        "verb": "prestar",
+        "meaning": "to lend",
+        "kind": "ar"
+    },
+    {
+        "verb": "probar",
+        "meaning": "to taste, try, try on",
+        "kind": "ar"
+    },
+    {
+        "verb": "proteger",
+        "meaning": "to protect",
+        "kind": "er"
+    },
+    {
+        "verb": "quedar",
+        "meaning": "to stay",
+        "kind": "ar"
+    },
+    {
+        "verb": "quejar",
+        "meaning": "to complain",
+        "kind": "ar"
+    },
+    {
+        "verb": "quitar",
+        "meaning": "to take off (clothing)",
+        "kind": "ar"
+    },
+    {
+        "verb": "recibir",
+        "meaning": "to receive",
+        "kind": "ir"
+    },
+    {
+        "verb": "recoger",
+        "meaning": "to pick up",
+        "kind": "er"
+    },
+    {
+        "verb": "recomendar",
+        "meaning": "to recommend",
+        "kind": "ar"
+    },
+    {
+        "verb": "recordar",
+        "meaning": "to remember",
+        "kind": "ar"
+    },
+    {
+        "verb": "regresar",
+        "meaning": "to regress, return",
+        "kind": "ar"
+    },
+    {
+        "verb": "reír",
+        "meaning": "to laugh",
+        "kind": "ír"
+    },
+    {
+        "verb": "repetir",
+        "meaning": "to repeat",
+        "kind": "ir"
+    },
+    {
+        "verb": "resolver",
+        "meaning": "to resolve",
+        "kind": "er"
+    },
+    {
+        "verb": "rogar",
+        "meaning": "to beg",
+        "kind": "ar"
+    },
+    {
+        "verb": "romper",
+        "meaning": "to break",
+        "kind": "er"
+    },
+    {
+        "verb": "sacar",
+        "meaning": "to take out",
+        "kind": "ar"
+    },
+    {
+        "verb": "salir",
+        "meaning": "to go out, leave",
+        "kind": "ir"
+    },
+    {
+        "verb": "secar",
+        "meaning": "to dry",
+        "kind": "ar"
+    },
+    {
+        "verb": "seguir",
+        "meaning": "to follow",
+        "kind": "ir"
+    },
+    {
+        "verb": "sentar",
+        "meaning": "to sit, seat",
+        "kind": "ar"
+    },
+    {
+        "verb": "sentir",
+        "meaning": "to feel",
+        "kind": "ir"
+    },
+    {
+        "verb": "servir",
+        "meaning": "to serve",
+        "kind": "ir"
+    },
+    {
+        "verb": "sofreír",
+        "meaning": "to saute, fry.",
+        "kind": "ír"
+    },
+    {
+        "verb": "sonar",
+        "meaning": "to sound",
+        "kind": "ar"
+    },
+    {
+        "verb": "sonreír",
+        "meaning": "to smile",
+        "kind": "ír"
+    },
+    {
+        "verb": "subir",
+        "meaning": "to go up",
+        "kind": "ir"
+    },
+    {
+        "verb": "sugerir",
+        "meaning": "to suggest",
+        "kind": "ir"
+    },
+    {
+        "verb": "sumergir",
+        "meaning": "to inmerse, submerge, dip.",
+        "kind": "ir"
+    },
+    {
+        "verb": "terminar",
+        "meaning": "to finish",
+        "kind": "ar"
+    },
+    {
+        "verb": "tocar",
+        "meaning": "to touch",
+        "kind": "ar"
+    },
+    {
+        "verb": "trabajar",
+        "meaning": "to work",
+        "kind": "ar"
+    },
+    {
+        "verb": "traducir",
+        "meaning": "to translate",
+        "kind": "ir"
+    },
+    {
+        "verb": "tratar",
+        "meaning": "to treat, try",
+        "kind": "ar"
+    },
+    {
+        "verb": "usar",
+        "meaning": "to use",
+        "kind": "ar"
+    },
+    {
+        "verb": "valer",
+        "meaning": "to be worth",
+        "kind": "er"
+    },
+    {
+        "verb": "velar",
+        "meaning": "to guard",
+        "kind": "ar"
+    },
+    {
+        "verb": "vender",
+        "meaning": "to sale",
+        "kind": "er"
+    },
+    {
+        "verb": "venir",
+        "meaning": "to come",
+        "kind": "ir"
+    },
+    {
+        "verb": "ver",
+        "meaning": "to see",
+        "kind": "er"
+    },
+    {
+        "verb": "vestir",
+        "meaning": "to wear, dress",
+        "kind": "ir"
+    },
+    {
+        "verb": "viajar",
+        "meaning": "to travel",
+        "kind": "ar"
+    },
+    {
+        "verb": "visitar",
+        "meaning": "to visit",
+        "kind": "ar"
+    },
+    {
+        "verb": "vivir",
+        "meaning": "to live",
+        "kind": "ir"
+    },
+    {
+        "verb": "volar",
+        "meaning": "to fly",
+        "kind": "ar"
+    },
+    {
+        "verb": "volver",
+        "meaning": "to return",
+        "kind": "er"
+    }
+]

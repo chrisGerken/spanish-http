@@ -1,202 +1,176 @@
-Abanderar/Registrar|To register|ar
-Abrir|To open|ir
-Aburrir|To bore|ir
-Acabar|To finish|ar
-Aceptar|To accept|ar
-Acordar|To do something|ar
-Acostar|To go to bed|ar
-Almorzar|To have lunch|ar
-Amar|To love|ar
-Andar|To walk|ar
-Apagar|Off – putout – extinguish|ar
-Aprender|To learn|er
-Asistir|To assist – attend|ir
-Ayudar|To help|ar
-Bailar|To dance|ar
-Bajar|To go down – get off (bus)|ar
-Beber|To drink|er
-Buscar|To look for|ar
-Caber|To fit|er
-Caer|To fall|er
-Cambiar|To change|ar
-Cantar|To sing|ar
-Casar|To marry / get married|ar
-Cenar|To have dinner, To have a evening meal.|ar
-Cerrar|To close|ar
-Cocinar|To cook|ar
-Coger|To pick up / take / catch|er
-Comenzar|To star / begin|ar
-Comer|To eat|er
-Compartir|To share|ir
-Comprar|To buy|ar
-Comprender|To understand|er
-Conducir|To driver|ir
-Conocer|To know|er
-Conseguir|To obtein / fin|ir
-Construir|To build|ir
-Contar|td class="column-2"|ar
-Corregir|To correct|ir
-Correr|To run|er
-Cortar|To cut|ar
-Costar|To cost|ar
-Crear|To create|ar
-Crecer|To grow|er
-Creer|To think|er
-Cruzar|To cross|ar
-Cubrir|To cover|ir
-Dar|To give|ar
-Deber|To must|er
-Decidir|To decide|ir
-Decir|To say / tell|ir
-Defender|To defend / stand up for|er
-Dejar|To leave|ar
-Desayunar|To have breakfast|ar
-Descubrir|To discover|ir
-Desear|To wish|ar
-Despedir|To say goodbye|ir
-Despertar|To wake up|ar
-Destruir|To destroy / wreck / demolish|ir
-Devolver|To return|er
-Dirigir|To manage|ir
-Divertir|To entertain / have fun|ir
-Doler|to hurt|er
-Dormir|To sleep|ir
-Duchar|To take a shower|ar
-Echar|To throw|ar
-Elegir|To choose|ir
-Empezar|To begin|ar
-Encantar|To love something|ar
-Encender|To light / turn on|er
-Encontrar|To find|ar
-Entender|To understand|er
-Entrar|To go in|ar
-Enviar|To send|ar
-Escoger|To choose|er
-Escribir|To writte|ir
-Escuchar|To listen|ar
-Esperar|To wait|ar
-Estar|To be|ar
-Estudiar|To study|ar
-Exigir|To demand / require|ir
-Explicar|To explain|ar
-Ganar|To win|ar
-Gastar|To spend|ar
-Gustar|To like|ar
-Haber|To have|er
-Habilitar|To fit out / authorise|ar
-Habitar|To inhabit|ar
-Habituar|To get used to|ar
-Hablar|To speak|ar
-Hacer|To make, to do|er
-Hackear|To hack|ar
-Halagar|To flatter|ar
-Hartar|To get bored of|ar
-Helar|To freeze|ar
-Henchir|To fill|ir
-Herir|To hurt|ir
-Hervir|To boil|ir
-Hinchar|To swell|ar
-Hospedar|To provide accomodation|ar
-Hostigar|To bother, pester|ar
-Huir|To run away, to escape|ir
-Incluir|To include|ir
-Ir|To go|Ir
-Jugar|To play|ar
-Lavar|To wash|ar
-Leer|To read|er
-Levantar|To raise|ar
-Limpiar|To clean|ar
-Llamar|To call|ar
-Llenar|To fill|ar
-Llegar|To arrive|ar
-Llevar|To carry, wear|ar
-Llorar|To cry|ar
-Llover|To rain|er
-Mandar|To order|ar
-Manejar|To handle, use, manage.|ar
-Mantener|To maintain|er
-Medir|To measure|ir
-Mentir|To lie|ir
-Mirar|To look at, wash|ar
-Morir|To die|ir
-Mostrar|To show|ar
-Mover|To move|er
-Nace|To beborn|ce
-Nadar|To swim|ar
-Necesitar|To need|ar
-Obtener|To obtain, win, get.|er
-Ofrecer|To offer|er
-Oír|To hear|ír
-Oler|To smell|er
-Olvidar|To forget|ar
-Organizar|To organize|ar
-Pagar|To pay|ar
-Parar|To stop|ar
-Parecer|To look like, seem|er
-Pasar|To pass|ar
-Pedir|To ask, ask for|ir
-Pensar|To think|ar
-Perder|To lose|er
-Permitir|To allow|ir
-Poder|Be able to|er
-Poner|To put|er
-Practicar|To practise|ar
-Preferir|To prefer|ir
-Preguntar|To ask|ar
-Preparar|To prepare|ar
-Prestar|To lend|ar
-Probar|To taste, try, try on|ar
-Proteger|To protect|er
-Quedar|To stay|ar
-Quejar|To complain|ar
-Querer|To want|er
-Quitar|To take off|ar
-Recibir|To receive|ir
-Recoger|To pick up|er
-Recomendar|To recommend|ar
-Recordar|To remember|ar
-Regresar|To go back, come back|ar
-Reír|To laugh|ír
-Repetir|To repeat|ir
-Resolver|to resolve|er
-Rogar|To beg|ar
-Romper|To break|er
-Rezar|To pray|ar
-Remar|To row|ar
-Saber|To know|er
-Sacar|To take out|ar
-Salir|To go out|ir
-Secar|To dry|ar
-Seguir|To follow|ir
-Sentar|To sit, seat|ar
-Sentir|To feel|ir
-Ser|To be|er
-Servir|To serve|ir
-Sofreír|To saute, fry.|ír
-Soler|To ussually do something|er
-Sonar|To sound|ar
-Sonreír|To smile|ír
-Subir|To go up, com up|ir
-Sugerir|To suggest|ir
-Sumergir|To inmerse, submerge, dip.|ir
-Tener|To have|er
-Terminar|To finish|ar
-Tocar|To touch|ar
-Tomar|To take|ar
-Trabajar|To work|ar
-Traducir|To translate|ir
-Traer|To bring|er
-Tratar|To treat /try|ar
-Usar|To use|ar
-Valer|To be worth|er
-Velar|To guard|ar
-Vender|To sale|er
-Venir|To come|ir
-Ver|To see|er
-Vestir|To wear, dress|ir
-Viajar|To travel|ar
-Visitar|To visit|ar
-Vivir|To live|ir
-Volar|To fly|ar
-Volver|To return|er
-Violar|To violate|ar
+abrir  |  to open  |  ir
+aburrir  |  to annoy, bore  |  ir
+acabar  |  to finish  |  ar
+aceptar  |  to accept  |  ar
+acordar  |  to do something  |  ar
+acostar  |  to go to bed  |  ar
+almorzar  |  to have lunch  |  ar
+amar  |  to love  |  ar
+andar  |  to walk  |  ar
+apagar  |  off – putout – extinguish  |  ar
+asistir  |  to assist – attend  |  ir
+ayudar  |  to help  |  ar
+bailar  |  to dance  |  ar
+buscar  |  to look for  |  ar
+caber  |  to fit  |  er
+caer  |  to fall  |  er
+cambiar  |  to change  |  ar
+cantar  |  to sing  |  ar
+casar  |  to marry / get married  |  ar
+cenar  |  to have dinner, to have a evening meal.  |  ar
+cerrar  |  to close  |  ar
+cocinar  |  to cook  |  ar
+coger  |  to pick up / take / catch  |  er
+comenzar  |  to star / begin  |  ar
+compartir  |  to share  |  ir
+comprender  |  to understand  |  er
+conducir  |  to driver  |  ir
+conocer  |  to know  |  er
+construir  |  to build  |  ir
+contar  |  td class="column-2"  |  ar
+corregir  |  to correct  |  ir
+correr  |  to run  |  er
+cortar  |  to cut  |  ar
+costar  |  to cost  |  ar
+crear  |  to create  |  ar
+crecer  |  to grow  |  er
+creer  |  to think  |  er
+cruzar  |  to cross  |  ar
+cubrir  |  to cover  |  ir
+deber  |  to must  |  er
+decidir  |  to decide  |  ir
+defender  |  to defend / stand up for  |  er
+dejar  |  to leave  |  ar
+desayunar  |  to have breakfast  |  ar
+descubrir  |  to discover  |  ir
+desear  |  to wish  |  ar
+despedir  |  to say goodbye  |  ir
+despertar  |  to wake up  |  ar
+destruir  |  to destroy / wreck / demolish  |  ir
+devolver  |  to return  |  er
+dirigir  |  to manage  |  ir
+divertir  |  to entertain / have fun  |  ir
+doler  |  to hurt  |  er
+duchar  |  to take a shower  |  ar
+echar  |  to throw  |  ar
+elegir  |  to choose  |  ir
+empezar  |  to begin  |  ar
+encantar  |  to love something  |  ar
+encender  |  to light / turn on  |  er
+encontrar  |  to find  |  ar
+entrar  |  to go in  |  ar
+escoger  |  to choose  |  er
+escuchar  |  to listen  |  ar
+esperar  |  to wait  |  ar
+estudiar  |  to study  |  ar
+exigir  |  to demand / require  |  ir
+explicar  |  to explain  |  ar
+ganar  |  to win  |  ar
+gastar  |  to spend  |  ar
+gustar  |  to like  |  ar
+haber  |  to have  |  er
+habilitar  |  to fit out / authorise  |  ar
+habitar  |  to inhabit  |  ar
+habituar  |  to get used to  |  ar
+hablar  |  to speak  |  ar
+hacer  |  to make, to do  |  er
+hackear  |  to hack  |  ar
+halagar  |  to flatter  |  ar
+hartar  |  to get bored of  |  ar
+helar  |  to freeze  |  ar
+henchir  |  to fill  |  ir
+herir  |  to hurt  |  ir
+hervir  |  to boil  |  ir
+hinchar  |  to swell  |  ar
+hospedar  |  to provide accomodation  |  ar
+hostigar  |  to bother, pester  |  ar
+huir  |  to run away, to escape  |  ir
+incluir  |  to include  |  ir
+jugar  |  to play  |  ar
+lavar  |  to wash  |  ar
+leer  |  to read  |  er
+levantar  |  to raise  |  ar
+limpiar  |  to clean  |  ar
+llamar  |  to call  |  ar
+llenar  |  to fill  |  ar
+llegar  |  to arrive  |  ar
+llevar  |  to carry, wear  |  ar
+llorar  |  to cry  |  ar
+llover  |  to rain  |  er
+mandar  |  to order  |  ar
+manejar  |  to handle, use, manage.  |  ar
+mantener  |  to maintain  |  er
+medir  |  to measure  |  ir
+mentir  |  to lie  |  ir
+mirar  |  to look at, wash  |  ar
+morir  |  to die  |  ir
+mostrar  |  to show  |  ar
+mover  |  to move  |  er
+nace  |  to beborn  |  ce
+necesitar  |  to need  |  ar
+obtener  |  to obtain, win, get.  |  er
+ofrecer  |  to offer  |  er
+oír  |  to hear  |  ír
+oler  |  to smell  |  er
+olvidar  |  to forget  |  ar
+organizar  |  to organize  |  ar
+pagar  |  to pay  |  ar
+parar  |  to stop  |  ar
+parecer  |  to look like, seem  |  er
+pasar  |  to pass  |  ar
+pensar  |  to think  |  ar
+permitir  |  to allow  |  ir
+practicar  |  to practise  |  ar
+preferir  |  to prefer  |  ir
+preguntar  |  to ask  |  ar
+preparar  |  to prepare  |  ar
+prestar  |  to lend  |  ar
+probar  |  to taste, try, try on  |  ar
+proteger  |  to protect  |  er
+quedar  |  to stay  |  ar
+quejar  |  to complain  |  ar
+quitar  |  to take off  |  ar
+recibir  |  to receive  |  ir
+recoger  |  to pick up  |  er
+recomendar  |  to recommend  |  ar
+recordar  |  to remember  |  ar
+regresar  |  to go back, come back  |  ar
+reír  |  to laugh  |  ír
+repetir  |  to repeat  |  ir
+resolver  |  to resolve  |  er
+rogar  |  to beg  |  ar
+romper  |  to break  |  er
+rezar  |  to pray  |  ar
+remar  |  to row  |  ar
+sacar  |  to take out  |  ar
+salir  |  to go out  |  ir
+secar  |  to dry  |  ar
+seguir  |  to follow  |  ir
+sentar  |  to sit, seat  |  ar
+sentir  |  to feel  |  ir
+servir  |  to serve  |  ir
+sofreír  |  to saute, fry.  |  ír
+soler  |  to ussually do something  |  er
+sonar  |  to sound  |  ar
+sonreír  |  to smile  |  ír
+subir  |  to go up, com up  |  ir
+sugerir  |  to suggest  |  ir
+sumergir  |  to inmerse, submerge, dip.  |  ir
+terminar  |  to finish  |  ar
+tocar  |  to touch  |  ar
+trabajar  |  to work  |  ar
+traducir  |  to translate  |  ir
+tratar  |  to treat /try  |  ar
+usar  |  to use  |  ar
+valer  |  to be worth  |  er
+velar  |  to guard  |  ar
+vender  |  to sale  |  er
+venir  |  to come  |  ir
+ver  |  to see  |  er
+vestir  |  to wear, dress  |  ir
+viajar  |  to travel  |  ar
+visitar  |  to visit  |  ar
+vivir  |  to live  |  ir
+volar  |  to fly  |  ar
+volver  |  to return  |  er
+violar  |  to violate  |  ar

@@ -27,6 +27,7 @@ public class Loader {
 		loadVerbs("v03.json");
 		loadVerbs("v04.json");
 		loadVerbs("v05.json");
+		loadVerbs("minimal.json");
 		loadQuestions();
 	}
 
@@ -64,7 +65,10 @@ public class Loader {
 
 		if (questionsToAsk.contains(QuestionMeta.QUESTION_VERB)) {
 			for (String verb: verbsToUse) {
-				QuestionMeta qm = new QuestionMeta(verb, null, null, QuestionMeta.QUESTION_VERB, 2);
+				QuestionMeta qm = new QuestionMeta(verb, null, null, QuestionMeta.QUESTION_VERB, 1);
+				DataBase.common.addQuestion(qm.getQuestion());
+
+				qm = new QuestionMeta(verb, null, null, QuestionMeta.QUESTION_TO_ENGLISH, 1);
 				DataBase.common.addQuestion(qm.getQuestion());
 			}
 		}

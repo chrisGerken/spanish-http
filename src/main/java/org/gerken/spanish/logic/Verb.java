@@ -30,24 +30,29 @@ public class Verb implements Comparable<Verb> {
 		meaning = jsonObject.getString("meaning");
 		kind 	= jsonObject.getString("kind");
 		
-		JSONObject tiempos = jsonObject.getJSONObject("tiempos");
 		
-		for (String t: Constants.tiempo) {
+		if (jsonObject.has("tiempos")) {
 			
-			if (tiempos.has(t)) {
-				JSONObject jobj = tiempos.getJSONObject(t);
-				spellings.put(t, new HashMap<>());
+			JSONObject tiempos = jsonObject.getJSONObject("tiempos");
+			
+			for (String t: Constants.tiempo) {
 				
-				for (String p: Constants.persona) {
+				if (tiempos.has(t)) {
+					JSONObject jobj = tiempos.getJSONObject(t);
+					spellings.put(t, new HashMap<>());
 					
-					if (jobj.has(p)) {
-						String spelling = jobj.getString(p);
-						spellings.get(t).put(p, jobj.getString(p));
+					for (String p: Constants.persona) {
 						
-						DataBase.common.add(new Conjugation(t, p, spelling, this));
-					}
+						if (jobj.has(p)) {
+							String spelling = jobj.getString(p);
+							spellings.get(t).put(p, jobj.getString(p));
+							
+							DataBase.common.add(new Conjugation(t, p, spelling, this));
+						}
 
+					}
 				}
+				
 			}
 			
 		}
